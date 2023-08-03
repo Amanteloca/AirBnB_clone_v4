@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Egesionu Charles Obimnaeto - [Github](https://github.com/IamNaeto) / [Twitter](https://twitter.com/naetocharlie)  
+Tony Kwesi Yeboah - [Github](https://github.com/Amanteloca) / [Twitter](https://twitter.com/_pryst1)
+  
 Afolab John Oluwaseyi - [Github] (https://github.com/Afooseyi) / [Twitter](https://twitter.com/@AfolabiFeran)
 
 Second part of Airbnb: Joann Vuong
